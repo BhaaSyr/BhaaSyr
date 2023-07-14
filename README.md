@@ -20,7 +20,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="25" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg?color=%23888888"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netbeans/netbeans.png"></code>
+<code><img height="25" src="https://api.iconify.design/vscode-icons:file-type-lua.svg?color=%23888888"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
