@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning JS & Nodejs
-- 💬 Ask me about Java and C#
+- 💬 Ask me about anything related to Javascript/Java/C#
 - ⚡ Fun fact: alawi habib galbi any khadmkm alzgier
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/C#.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netbeans/netbeans.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
