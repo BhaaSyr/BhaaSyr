@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-###I am studying a Computer engineering at Firat university, I have a knowledge of game development, Computer hardware, programming languages and more
+<h2>I am studying a Computer engineering at Firat university, I have a knowledge of game development, Computer hardware, programming languages and more<\h2>
 
 
 - 🌱 I’m currently learning JS & Nodejs
