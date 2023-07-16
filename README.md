@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="top" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<h4>I am studying a Computer engineering at Firat university, I have a knowledge of game development, Computer hardware, programming languages and more</h4>
+<h4>I am Bahaa Alzhoury studying a Computer engineering at Firat university, I have a knowledge of game development, Computer hardware, programming languages and more</h4>
 
 
 - 🌱 I’m currently learning JS & Nodejs
