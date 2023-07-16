@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JS & Nodejs
 - 💬 Ask me about anything related to Javascript/Java/C#
 - ⚡ Fun fact: alawi habib galbi any khadmkm alzgier
--  links you can contect me with :
+- 📨  links you can contect me with :
 <a href="https://www.linkedin.com/in/bhaa-zhory-80b994232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
   
