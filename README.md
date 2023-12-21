@@ -24,4 +24,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" alt="GIF" src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23888888"></code>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
+</a>
 
