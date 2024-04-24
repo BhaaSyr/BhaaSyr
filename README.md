@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning backend and searching for an internship.
 - 📨 links you can contect me with :
 <a href="https://www.linkedin.com/in/bhaa-zhory-80b994232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhaazhory/" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:instagram.svg?c=%23888888" alt="gautamkrishnar" height="30" width="40" /></a>
  
 
 
