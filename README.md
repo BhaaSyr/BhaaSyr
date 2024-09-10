@@ -32,7 +32,6 @@
 <img height="40" src="https://api.iconify.design/vscode-icons:file-type-pgsql.svg?color=%23888888">
 <img height="40" src="https://api.iconify.design/vscode-icons:file-type-lua.svg?color=%23888888">
 <img height="40" src="https://api.iconify.design/devicon:git.svg">
-<img height="40" alt="GIF" src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23888888">
 </div>
 
  <!--   <p align="left"> <a href="https://angular.io" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p> -->
