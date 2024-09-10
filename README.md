@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahaa Alzhouri</h1>
 
 
-<h4>Final-Year Computer Engineering Student at Firat university</h4>
+<h4>Final-Year Computer Engineering Student at Firat university</h4>       <img align="right" src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
 <div>
  I’m a computer engineering student with a strong foundation in:
 
@@ -9,8 +9,7 @@
 - Data Design (Database Management, SQL, NoSQL)
 </div>
 
-<img align="top" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
-
+-------------------------
 
 - 🌱 I'm currently learning machine learning and mongoDB
 - 👨‍💻 I love analysing and working on real world projects and AI
@@ -46,12 +45,7 @@
   </a>
 
 </details>-->
-<div>
- <h3>  </h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
-</a>
-</div>
+
 
 
 
