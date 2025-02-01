@@ -5,7 +5,8 @@
 <div>
  I’m a computer engineering student with a strong foundation in:
 
-- Backend Development (ASP.NET)
+- Backend Development (ASP.NET ,Laravel)
+- Machine Learning 
 - Data Design (Database Management, SQL, NoSQL)
 </div>
 <img height="300" align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
@@ -13,7 +14,7 @@
 
 -------------------------
 
-- 🌱 I'm currently learning machine learning and mongoDB
+- 🌱 I'm currently learning machine learning and Laravel API
 - 👨‍💻 I love analysing and working on real world projects and AI
 - 📫 How to reach me bahaa.homsbakr@gmail.com
  <h4>Connect with me:</h4>
