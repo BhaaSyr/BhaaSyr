@@ -18,25 +18,32 @@
 - 👨‍💻 I love analysing and working on real world projects and AI
 - 📫 How to reach me bahaa.homsbakr@gmail.com
  <h4>Connect with me:</h4>
+ <p align="center">
 <a href="https://www.linkedin.com/in/bhaa-zhory-80b994232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhaazhory/" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:instagram.svg?c=%23888888" alt="gautamkrishnar" height="30" width="40" /></a>
-
+ </p>
 <h3>    </h3>
 
 
 
-<h4>   <b>Languages&nbsp;and&nbsp;Tools:</b> </h4>
-  <div>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img height="40" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg?color=%23888888">
- <img height="40" src="https://api.iconify.design/logos:dotnet.svg?color=%23888888">
- <img height="40" src="https://api.iconify.design/devicon-plain:microsoftsqlserver-wordmark.svg?c=%23888888">
-<img height="40" src="https://api.iconify.design/vscode-icons:file-type-pgsql.svg?color=%23888888">
-<img height="40" src="https://api.iconify.design/vscode-icons:file-type-lua.svg?color=%23888888">
-<img height="40" src="https://api.iconify.design/devicon:git.svg">
-</div>
+<h4>   Languages&nbsp;and&nbsp;Tools: </h4>
+ 
 
- <!--   <p align="left"> <a href="https://angular.io" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p> -->
+<p align="center">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="flutter" width="50" height="70"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="laravel" width="50" height="70" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="flutter" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="laravel" width="60" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="laravel" width="55" height="55" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="laravel" width="50" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="laravel" width="70" height="70" />
+   
+     
+</p>
+
+
 
 
 
