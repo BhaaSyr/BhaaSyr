@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bahaa Alzhouri</h1>
+<h1 align="center">Hi 👋, I'm Bahaa</h1>
 
 
 <h4>Final-Year Computer Engineering Student at Firat university</h4>       <img align="right" src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
