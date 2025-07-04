@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bahaa</h1>
 
 
-<h4>Final-Year Computer Engineering Student at Firat university</h4>       <img align="right" src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
+<h4>Computer Engineering graduate from Firat University</h4>       <img align="right" src="https://visitcount.itsvg.in/api?id=BhaaSyr&label=Profile%20Views&pretty=true" />
 <div>
- I’m a computer engineering student with a strong foundation in:
+ I’m a computer engineer with a strong foundation in:
 
 - Backend Development (ASP.NET ,Laravel)
 - Machine Learning 
 - Data Design (Database Management, SQL, NoSQL)
+
+~3 years Backend experience , worked on a projects of web-mobile systems using technologies ASP.NET, SQL, and Laravel.
+~1 year machine learning experience , working on challenges such as deepfake detection, image analysis(python,tensorflow,sklearn).
+~3 years of remote experience as an accountant,
 </div>
 <img height="300" align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
@@ -17,6 +21,7 @@
 - 🌱 I'm currently learning machine learning and Laravel API
 - 👨‍💻 I love analysing and working on real world projects and AI
 - 📫 How to reach me bahaa.homsbakr@gmail.com
+ <h4>Feel free to connect or contact me at any time—I'm always excited to collaborate, learn, and build.</h4>
  <h4>Connect with me:</h4>
  <p align="left">
 <a href="https://www.linkedin.com/in/bhaa-zhory-80b994232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="40" width="50" /></a>
