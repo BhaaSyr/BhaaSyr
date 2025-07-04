@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I’m a computer engineer with a strong foundation and practical experience in:
 
@@ -21,24 +21,24 @@ I have:
 
 ---
 
-### 🌱 What I'm Up To
+###  What I'm Up To
 
 - Currently diving deeper into **Machine Learning** and **Laravel API Development**  
 - Passionate about analyzing and building real-world AI solutions  
 - Always ready to learn and collaborate on challenging projects
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="300" />
-</p>
 
-### 📫 Reach Me
+  <img height="300" align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+###  Reach Me
 
 - Email: **bahaa.homsbakr@gmail.com**  
 - Feel free to connect — I'm always excited to collaborate, learn, and build!
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhaa-zhory-80b994232" target="_blank">
