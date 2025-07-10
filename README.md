@@ -23,9 +23,9 @@ I have:
 
 ###  What I'm Up To
 
-- Currently diving deeper into **Machine Learning** and **Laravel API Development**  
+- Currently diving deeper into **Machine Learning** and **Microservices Architecturet**  
 - Passionate about analyzing and building real-world AI solutions  
-- Always ready to learn and collaborate on challenging projects
+- Currently open to new opportunities and collaborations.
 
 
   <img height="300" align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
@@ -33,8 +33,9 @@ I have:
 
 ###  Reach Me
 
-- Email: **bahaa.homsbakr@gmail.com**  
-- Feel free to connect — I'm always excited to collaborate, learn, and build!
+- Email: **bahaa.homsbakr@gmail.com**
+  
+ Feel free to connect — I'm always excited to collaborate, learn, and build!
 
 ---
 
