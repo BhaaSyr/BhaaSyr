@@ -10,7 +10,7 @@
 
 I’m a computer engineer with a strong foundation and practical experience in:
 
-- **Backend Development:** ASP.NET, Laravel  
+- **Backend Development:** ASP.NET, Laravel, Flask
 - **Machine Learning:** Python, TensorFlow, scikit-learn  
 - **Data Design:** Database Management, SQL, NoSQL
 
